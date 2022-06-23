@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322858627681",
+    "project_id": "lolits-lugawan-app",
+    "storage_bucket": "lolits-lugawan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322858627681:android:13b336b8ec775adaf47020",
+        "android_client_info": {
+          "package_name": "com.example.lolits_lugawan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322858627681-m5ss9hgki83ki936n4bic4mn5742vncd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ-GGVRFm5nx4kuHjYgPOUuCkVH_Jjtvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322858627681-m5ss9hgki83ki936n4bic4mn5742vncd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

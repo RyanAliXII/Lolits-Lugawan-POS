@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lolits_lugawan_app</string>
+
+
+
+
+    <string name="sign_in_text">Sign In</string>
+    <string name="email_prompt_text">Enter email</string>
+    <string name="password_prompt_text">Enter password</string>
+    <string name="email_text_label">Email</string>
+    <string name="password_text_label">Password</string>
+
+</resources>
