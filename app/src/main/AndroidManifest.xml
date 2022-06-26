@@ -16,8 +16,8 @@
         <activity
             android:name=".DashboardActivity"
             android:exported="false"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            />
+            android:label="@string/title_activity_dashboard"
+            android:theme="@style/Theme.Lolits_lugawan_app.NoActionBar" />
         <activity
             android:name=".LoginActivity"
             android:exported="true"

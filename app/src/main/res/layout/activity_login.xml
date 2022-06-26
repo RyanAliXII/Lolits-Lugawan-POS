@@ -19,7 +19,6 @@
         android:layout_height="wrap_content"
         android:text="@string/sign_in_text"
         android:layout_gravity="center"
-
         >
 
     </TextView>

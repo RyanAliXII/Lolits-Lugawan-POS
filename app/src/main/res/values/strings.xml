@@ -2,12 +2,30 @@
     <string name="app_name">lolits_lugawan_app</string>
 
 
-
-
     <string name="sign_in_text">Sign In</string>
     <string name="email_prompt_text">Enter email</string>
     <string name="password_prompt_text">Enter password</string>
     <string name="email_text_label">Email</string>
     <string name="password_text_label">Password</string>
+    <string name="title_activity_creater_user">CreaterUserActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_gallery">Users</string>
+    <string name="menu_slideshow">Products</string>
 
 </resources>
